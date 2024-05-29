@@ -1,0 +1,105 @@
+/* Colors and fonts */
+body 
+{color:rgb(150,150,150);
+background: rgb(249,249,249);
+font-size: 17px;
+font-family: TW cen MT; 
+font-weight:lighter;
+line-height: 20px;
+letter-spacing: 2px;}
+
+h1 
+{color: #1687A7;
+text-transform:uppercase;
+text-align: center ;
+font-family: 'Train One';}
+
+h2 
+{color: #1687A7;
+text-transform:uppercase;
+text-align: center ;
+font-family: 'Train One';}
+
+h3 
+{color: #276678;
+font-family: 'Kiwi Maru', serif;
+font-weight: 800;
+font-size: 20px;
+padding-bottom: 18px;}
+
+ul 
+{color: black;
+size: 50px;}
+
+#profile
+{border-radius: 30%;
+display: block;
+ margin-left: auto;
+ margin-right: auto;}
+
+img 
+{align-items: center;}
+
+#diamant
+#martinique
+{display: block;
+ margin-left: auto;
+ margin-right: auto;}
+
+#center
+{text-align: center;}
+
+/*Custom design*/
+.hobbies
+{ margin-bottom: 20px;
+    border-style: none none dashed;
+    padding-bottom: 30px;
+    border-width: 2px;
+    text-align: center;
+}
+
+.cardwhite
+{background: white;
+ padding: 30px;
+ border-radius: 4px;
+ box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 10%);
+ width: 800px;
+ margin-bottom: 20px;
+ margin-left: 180px;}
+
+.listinline
+{ list-style: none;
+padding-left: 0px;
+text-align: center;
+}
+ .listinline li
+ { display: block;
+ }
+
+ .listinline 
+ {font-size: 50px;
+ 	margin-left: auto;
+  margin-right: auto; 
+}
+
+.container {
+	width: 700px;
+}
+
+.img-circle {
+    border-radius: 90%;
+}
+
+@media (max-width: 760px) 
+{.container  {
+width: 600px;}}
+
+@media (max-width: 500px) {
+.container  {
+	width: 400px;}}
+
+
+
+
+
+
